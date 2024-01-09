@@ -17,6 +17,7 @@ Welcome to the Amazon Home Page Clone, a project that replicates the iconic Amaz
 
 ## Screenshots
 
+![Uploading amazon page.PNG…]()
 
 
 ## Technologies Used
